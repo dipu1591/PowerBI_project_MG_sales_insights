@@ -1,5 +1,3 @@
-# PowerBI_project_MG_sales_insights
-
 # Maximizing Business Insights with PowerBI Dashboards: A Case Study of MG Group [[Video Presentation]](https://www.linkedin.com/)
 
 Power BI is a business analytics service provided by Microsoft that allows users to visualize and analyze data from a wide range of sources. A Power BI project is essentially a dashboard or report that is created using the Power BI service, and it allows users to present data in a visually appealing and interactive manner.
@@ -30,11 +28,17 @@ If you would like to learn more about my project, I have a brief presentation av
 
 ## Screenshots
 
-![Screenshot of Dashboard for Head sales Director](https://github.com/dipu1591/PowerBI_pet_project_MG_sales_insights/blob/main/SS%201.PNG)
+![Screenshot of Dashboard for Head sales Director](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%201.PNG)
 
-![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_pet_project_MG_sales_insights/blob/main/SS%202.PNG)
+<br/>
 
-![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_pet_project_MG_sales_insights/blob/main/SS%203.PNG)
+![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%202.PNG)
+
+<br/>
+
+![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%203.PNG)
+
+<br/>
 
 
 ## 🔗 Links
