@@ -16,16 +16,19 @@ Here, I have created three different dashboards for three persons working at dif
 
 Through this project, I gained valuable experience in connecting PowerBI with a RDBMS, using AIMS GRID, operating PowerBI, and using DAX. Additionally, I gained some business understanding, which is essential for any data analyst or data scientist. In the near future, I plan to focus on getting better at DAX to deep dive further into the field of data science. 
 
+<br/>
 
 ## Acknowledgements
 
 I would like to acknowledge the [CODEBASICS](https://www.youtube.com/@codebasics/) YouTube channel for providing a comprehensive tutorial on PowerBI, which helped me in completing this project. Their step-by-step guidance was invaluable in understanding the concepts and techniques used in this project.
 
+<br/>
 
 ## Appendix
 
 If you would like to learn more about my project, I have a brief presentation available on my [linkedin post](https://www.linkedin.com/) that you may find interesting to review.
 
+<br/>
 
 ## Screenshots
 
@@ -33,14 +36,17 @@ If you would like to learn more about my project, I have a brief presentation av
 
 <br/>
 
+<br/>
+
 ![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%202.PNG)
+
+<br/>
 
 <br/>
 
 ![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%203.PNG)
 
 <br/>
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipu1591/)
