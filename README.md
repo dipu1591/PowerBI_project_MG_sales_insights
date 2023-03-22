@@ -10,6 +10,7 @@ Overall, a Power BI project is a powerful tool for anyone who needs to work with
 
 Here, I have created three different dashboards for three persons working at different positions of a company called MG. MG Group has a very large business in India, which they have divided into three zones with 4-6 cities under each. Each city has a market representative who takes care of day-to-day business accounts. Additionally, there is a zonal manager who controls the markets under him, and above them is the Head Sales Director, who directly controls each zone. MG deals with two types of customers and sells their own products, as well as distributes the goods of other companies. With such a large business and multiple levels of management, there is no alternative to a dashboard to get an overall idea of what is going on. Moreover, anyone can easily share the dashboard with their superior, embed it in PowerPoint slides of office meetings, and take data-driven decisions.
 
+<br/>
 
 ## Lessons Learned
 
