@@ -12,9 +12,17 @@ Here, I have created three different dashboards for three persons working at dif
 
 <br/>
 
+<br/>
+
+<br/>
+
 ## Lessons Learned
 
 Through this project, I gained valuable experience in connecting PowerBI with a RDBMS, using AIMS GRID, operating PowerBI, and using DAX. Additionally, I gained some business understanding, which is essential for any data analyst or data scientist. In the near future, I plan to focus on getting better at DAX to deep dive further into the field of data science. 
+
+<br/>
+
+<br/>
 
 <br/>
 
@@ -24,9 +32,17 @@ I would like to acknowledge the [CODEBASICS](https://www.youtube.com/@codebasics
 
 <br/>
 
+<br/>
+
+<br/>
+
 ## Appendix
 
 If you would like to learn more about my project, I have a brief presentation available on my [linkedin post](https://www.linkedin.com/posts/dipu1591_dataanlytics-powerbi-salesinsights-activity-7044568108769968128-cF5j?utm_source=share&utm_medium=member_desktop) that you may find interesting to review.
+
+<br/>
+
+<br/>
 
 <br/>
 
@@ -36,15 +52,17 @@ If you would like to learn more about my project, I have a brief presentation av
 
 <br/>
 
-<br/>
 
 ![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%202.PNG)
 
 <br/>
 
-<br/>
 
 ![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%203.PNG)
+
+<br/>
+
+<br/>
 
 <br/>
 
