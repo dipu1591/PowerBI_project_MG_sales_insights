@@ -1,4 +1,4 @@
-# Maximizing Business Insights with PowerBI Dashboards: A Case Study of MG Group [[Video Presentation]](https://www.linkedin.com/posts/dipu1591_dataanlytics-powerbi-salesinsights-activity-7044568108769968128-cF5j?utm_source=share&utm_medium=member_desktop)
+# Maximizing Business Insights with Power BI Dashboards: A Case Study of MG Group [[Video Presentation]](https://www.linkedin.com/posts/dipu1591_dataanlytics-powerbi-salesinsights-activity-7044568108769968128-cF5j?utm_source=share&utm_medium=member_desktop)
 
 Power BI is a business analytics service provided by Microsoft that allows users to visualize and analyze data from a wide range of sources. A Power BI project is essentially a dashboard or report that is created using the Power BI service, and it allows users to present data in a visually appealing and interactive manner.
 
