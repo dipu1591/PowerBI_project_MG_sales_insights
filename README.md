@@ -46,7 +46,11 @@ Through this project, I gained valuable experience in connecting PowerBI with a 
 
 <br/>
 
+<br/>
+
 ![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/Screenshot/2.PNG)
+
+<br/>
 
 <br/>
 
