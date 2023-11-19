@@ -42,15 +42,15 @@ Through this project, I gained valuable experience in connecting PowerBI with a 
 
 <br/>
 
-![Screenshot of Dashboard for Head sales Director](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%201.PNG)
+![Screenshot of Dashboard for Head sales Director](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/Screenshot/1.PNG)
 
 <br/>
 
-![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%202.PNG)
+![Screenshot of Dashboard for Zonal Manager](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/Screenshot/2.PNG)
 
 <br/>
 
-![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/SS%203.PNG)
+![Screenshot of Dashboard for Market Representative](https://github.com/dipu1591/PowerBI_project_MG_sales_insights/blob/main/Screenshot/3.PNG)
 
 <br/>
 
