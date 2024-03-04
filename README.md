@@ -2,10 +2,6 @@
 
 <br/>
 
-<br/>
-
-<br/>
-
 Power BI is a business analytics service provided by Microsoft that allows users to visualize and analyze data from a wide range of sources. A Power BI project is essentially a dashboard or report that is created using the Power BI service, and it allows users to present data in a visually appealing and interactive manner.
 
 A Power BI project can be used by anyone who needs to analyze and make sense of data, regardless of their level of technical expertise. This includes business analysts, data analysts, data scientists, executives, and anyone else who needs to make data-driven decisions.
